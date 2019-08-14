@@ -1,0 +1,178 @@
+{
+  "Bulldoze": {
+    "power": 60,
+    "pp": 20,
+    "type": 10,
+    "category": 0,
+    "boostChance": 1.0,
+    "boostType": -5,
+    "boostStrength": 1
+  },
+  "Defog": {
+    "type": 11,
+    "pp": 24,
+    "category": 1,
+    "neverMiss": true,
+    "boostChance": 1.0,
+    "boostType": -7,
+    "boostStrength": 1,
+    "removeHazards": true,
+    "removeEnemyHazards": true
+  },
+  "Earthquake": {
+    "power": 100,
+    "pp": 16,
+    "type": 10,
+    "category": 1
+  },
+  "Explosion": {
+    "power": 250,
+    "pp": 8,
+    "explode": true,
+    "type": 1,
+    "category": 1
+  },
+  "Focus Blast": {
+    "power": 120,
+    "accuracy": 0.7,
+    "pp": 8,
+    "type": 2,
+    "category": 2,
+    "critChance": 0.0625,
+    "boostChance": 0.1,
+    "boostType": -4,
+    "boostStrength": -1
+  },
+  "Flamethrower": {
+    "power": 90,
+    "pp": 24,
+    "type": 4,
+    "category": 2,
+    "effectChance": 0.1,
+    "effectType": 6
+  },    
+  "Haze": {
+    "pp": 48,
+    "category": 1,
+    "type": 7,
+    "statEffect": true,
+    "alwaysHit": true,
+    "resetStats": true
+  },
+  "Heavy Slam": {
+    "power": 40,
+    "pp": 16,
+    "type": 17,
+    "category": 2,
+    "weightDependent": true,
+    "contact": true
+  },
+  "Hidden Power": {
+    "power": 70,
+    "type": 4,
+    "pp": 16,
+    "category": 2
+  },
+  "Hydro Pump": {
+    "power": 110,
+    "pp": 8,
+    "type": 5,
+    "accuracy": 0.8,
+    "category": 2
+  },
+  "Knock Off": {
+    "power": 65,
+    "pp": 16,
+    "type": 15,
+    "category": 0,
+    "knockOff": true,
+    "contact": true
+  },
+  "Leech Seed": {
+    "accuracy": 0.9,
+    "pp": 16,
+    "type": 3,
+    "category": 1,
+    "leechSeed": true,
+    "affectSameType": true
+  },
+  "Power Whip": {
+    "power": 120,
+    "accuracy": 0.85,
+    "pp": 16,
+    "type": 3,
+    "category": 0,
+    "contact": true
+  },
+  "Protect": {
+    "type": 1,
+    "pp": 16,
+    "priority": 4,
+    "protect": true,
+    "category": 1,
+    "targetType": 1
+  },
+  "Psychic": {
+    "power": 90,
+    "pp": 16,
+    "type": 13,
+    "category": 2,
+    "critChance": 0.0625,
+    "boostChance": 0.1,
+    "boostType": -4,
+    "boostStrength": -1
+  },
+  "Recover": {
+    "pp": 16,
+    "type": 1,
+    "category": 1,
+    "healingPercent": 0.5,
+    "targetType": 1
+  },
+  "Shadow Ball": {
+    "power": 80,
+    "pp": 16,
+    "type": 14,
+    "category": 2,
+    "critChance": 0.0625,
+    "boostChance": 0.2,
+    "boostType": -4,
+    "boostStrength": -1
+  },
+  "Spikes": {
+    "pp": 32,
+    "type": 10,
+    "spikes": true,
+    "neverMiss": true,
+    "fieldEffect": true,
+    "targetType": 2,
+    "category": 1
+  },
+  "Stealth Rock": {
+    "pp": 32,
+    "type": 9,
+    "category": 1,
+    "fieldEffect": true,
+    "targetType": 2,
+    "rocks": true,
+    "neverMiss": true,
+    "fieldEffect": true,
+    "desc": "Sets pointy rocks floating on the opponent's side of the field, dealing 1/8 of their max health on switch in. Damage is affected by rock multipliers."
+  },
+  "Toxic": {
+    "pp": 16,
+    "accuracy": 0.9,
+    "type": 8,
+    "category": 1,
+    "effectChance": 1.0,
+    "effectType": 4
+  },
+  "U-turn": {
+    "power": 70,
+    "type": 12,
+    "switchPoke": true,
+    "pp": 16,
+    "category": 0,
+    "contact": true
+  }
+}

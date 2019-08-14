@@ -1,0 +1,54 @@
+Alakazam @ Alakazite
+Ability: Magic Guard
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Psychic
+- Focus Blast
+- Shadow Ball
+- Recover
+
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 8 Def / 248 SpD
+Careful Nature
+- Stealth Rock
+- Leech Seed
+- Bulldoze
+- Power Whip
+
+Celesteela @ Leftovers
+Ability: Beast Boost
+EVs: 248 HP / 96 Def / 12 SpA / 148 SpD / 4 Spe
+Sassy Nature
+- Heavy Slam
+- Leech Seed
+- Protect
+- Flamethrower
+
+Toxapex @ Black Sludge
+Ability: Regenerator
+EVs: 248 HP / 120 Def / 108 SpD / 32 Spe
+Impish Nature
+- Knock Off
+- Toxic
+- Recover
+- Haze
+
+Landorus-Therian @ Choice Scarf
+Ability: Intimidate
+EVs: 24 HP / 232 Atk / 56 Def / 196 Spe
+Jolly Nature
+- Earthquake
+- Explosion
+- Defog
+- U-turn
+
+Greninja (M) @ Expert Belt
+Ability: Protean
+EVs: 40 Atk / 216 SpA / 252 Spe
+Hasty Nature
+- Hydro Pump
+- Hidden Power
+- Spikes
+- U-turn

@@ -1,0 +1,41 @@
+Current Pokemon HP
+Current Pokemon Atk
+Current Pokemon Def
+Current Pokemon SpAtk
+Current Pokemon SpDef
+Current Pokemon Spe
+Current Pokemon Move 1 Damage
+Current Pokemon Move 1 Acc
+Current Pokemon Move 1 {Some number things based on num move affects}
+Repeat for all 4 moves
+Current Pokemon Type1
+Current Pokemon Type2
+Current Pokemon Ability Effects {Some number for different values that are important
+Item effects
+
+Actually, sum ability effects and item effects and put it onto each move effects properly, need calculation but best 
+
+Repeat for all 6 pokemon
+
+Current Enemy Pokemon HP
+Current Enemy Pokemon Atk
+Current Enemy Pokemon Def
+Current Enemy Pokemon SpAtk
+Current Enemy Pokemon SpDef
+Current Enemy Pokemon Spe
+Current Enemy Pokemon Move 1 Damage
+Current Enemy Pokemon Move 1 Acc
+Current Enemy Pokemon Move 1 {Some number things based on num move affects}
+Repeat for all 4 moves
+Current Enemy Pokemon Type1
+Current Enemy Pokemon Type2
+
+Repeat all 6 pokemon
+
+
+Make sure to put different variables for ALL of this in main code to actually get data in the first place
+
+
+
+
+Output: 4 outputs for each move, 6 outputs for switching, if sum of switching is > than move sum, switch highest switch chance, otherwise move higher move chance.

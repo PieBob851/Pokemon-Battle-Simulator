@@ -1,0 +1,298 @@
+Absorb Bulb
+Adamant Orb
+Air Balloon
+Aloraichium Z
+Amulet Coin
+Assault Vest
+Berserk Gene
+Big Root
+Binding Band
+Black Belt
+Black Glasses
+Black Sludge
+Blue Orb
+Blue Scarf
+BrightPowder
+Bug Gem
+Bug Memory
+Buginium Z
+Burn Drive
+Cell Battery
+Charcoal
+Chill Drive
+Choice Band
+Choice Scarf
+Choice Specs
+Cleanse Tag
+Damp Rock
+Dark Gem
+Dark Memory
+Darkinium Z
+Decidium Z
+Deep Sea Scale
+Deep Sea Tooth
+Destiny Knot
+Douse Drive
+Draco Plate
+Dragon Fang
+Dragon Gem
+Dragon Memory
+Dragonium Z
+Dread Plate
+Dubious Disc
+Earth Plate
+Eevium Z
+Eject Button
+Electirizer
+Electric Gem
+Electric Memory
+Electric Seed
+Electrium Z
+Everstone
+Eviolite
+Exp. Share
+Expert Belt
+Fairium Z
+Fairy Gem
+Fairy Memory
+Fighting Gem
+Fighting Memory
+Fightinium Z
+Fire Gem
+Fire Memory
+Firium Z
+Fist Plate
+Flame Orb
+Flame Plate
+Float Stone
+Flying Gem
+Flying Memory
+Flyinium Z
+Focus Band
+Focus Sash
+Full Incense
+Ghost Gem
+Ghost Memory
+Ghostium Z
+Grass Gem
+Grass Memory
+Grassium Z
+Grassy Seed
+Green Scarf
+Grip Claw
+Griseous Orb
+Ground Gem
+Ground Memory
+Groundium Z
+Hard Stone
+Heat Rock
+Ice Gem
+Ice Memory
+Icicle Plate
+Icium Z
+Icy Rock
+Incinium Z
+Insect Plate
+Iron Ball
+Iron Plate
+King's Rock
+Kommonium Z
+Lagging Tail
+Lax Incense
+Leftovers
+Life Orb
+Light Ball
+Light Clay
+Luck Incense
+Lucky Egg
+Lucky Punch
+Luminous Moss
+Lunalium Z
+Lustrous Orb
+Lycanium Z
+Macho Brace
+Magmarizer
+Magnet
+Marshadium Z
+Meadow Plate
+Mental Herb
+Metal Coat
+Metal Powder
+Metronome
+Mewnium Z
+Mimikium Z
+Mind Plate
+Miracle Seed
+Misty Seed
+Muscle Band
+Mystic Water
+Never-Melt Ice
+Normal Gem
+Normalium Z
+Odd Incense
+Pikanium Z
+Pikashunium Z
+Pink Bow
+Pink Scarf
+Pixie Plate
+Poison Barb
+Poison Gem
+Poison Memory
+Poisonium Z
+Power Anklet
+Power Band
+Power Belt
+Power Bracer
+Power Herb
+Power Lens
+Power Weight
+Primarium Z
+Protective Pads
+Protector
+Psychic Gem
+Psychic Memory
+Psychic Seed
+Psychium Z
+Pure Incense
+Quick Claw
+Quick Powder
+Razor Claw
+Razor Fang
+Reaper Cloth
+Red Card
+Red Orb
+Red Scarf
+Ring Target
+Rock Gem
+Rock Incense
+Rock Memory
+Rockium Z
+Rocky Helmet
+Rose Incense
+Safety Goggles
+Scope Lens
+Sea Incense
+Sharp Beak
+Shed Shell
+Shell Bell
+Shock Drive
+Silk Scarf
+SilverPowder
+Sky Plate
+Smoke Ball
+Smooth Rock
+Snorlium Z
+Snowball
+Soft Sand
+Solganium Z
+Soothe Bell
+Soul Dew
+Spell Tag
+Splash Plate
+Spooky Plate
+Steel Gem
+Steel Memory
+Steelium Z
+Stick
+Sticky Barb
+Stone Plate
+Tapunium Z
+Terrain Extender
+Thick Club
+Toxic Orb
+Toxic Plate
+TwistedSpoon
+Ultranecrozium Z
+Water Gem
+Water Memory
+Waterium Z
+Wave Incense
+Weakness Policy
+White Herb
+Wide Lens
+Wise Glasses
+Yellow Scarf
+Zap Plate
+Zoom Lens
+Venusaurite
+Charizardite X
+Charizardite Y
+Blastoisinite
+Beedrillite
+Pidgeotite
+Alakazite
+Slowbronite
+Gengarite
+Kangaskhanite
+Pinsirite
+Gyaradosite
+Aerodactylite
+Mewtwonite X
+Mewtwonite Y
+Ampharosite
+Steelixite
+Scizorite
+Heracronite
+Houndoominite
+Tyranitarite
+Sceptilite
+Blazikenite
+Swampertite
+Gardevoirite
+Sablenite
+Mawilite
+Aggronite
+Medichamite
+Manectite
+Sharpedonite
+Cameruptite
+Altarianite
+Banettite
+Absolite
+Glalitite
+Salamencite
+Metagrossite
+Latiasite
+Latiosite
+Lopunnite
+Garchompite
+Lucarionite
+Abomasite
+Galladite
+Audinite
+Diancite
+Aloraichium Z
+Buginium Z
+Darkinium Z
+Decidium Z
+Dragonium Z
+Eevium Z
+Electrium Z
+Fairium Z
+Fightinium Z
+Firium Z
+Flyinium Z
+Ghostium Z
+Grassium Z
+Groundium Z
+Icium Z
+Incinium Z
+Kommonium Z
+Lunalium Z
+Lycanium Z
+Marshadium Z
+Mewnium Z
+Mimikium Z
+Normalium Z
+Pikanium Z
+Pikashunium Z
+Poisonium Z
+Primarium Z
+Psychium Z
+Rockium Z
+Snorlium Z
+Solganium Z
+Steelium Z
+Tapunium Z
+Ultranecrozium Z
+Waterium Z

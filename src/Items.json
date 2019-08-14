@@ -1,0 +1,58 @@
+{
+  "Alakazite": {
+    "megaStone": true,
+    "megaStats": [0, 50, 65, 175, 95, 150],
+    "megaAbility": "Trace"
+  },
+ "Assault Vest": {
+    "disableStatusMoves": true,
+    "statMultiplier": 1.5,
+    "stat": 4
+  },
+ "Black Sludge": {
+    "onTurnEnd": true,
+    "healing": true,
+    "healingPercent": 0.0625,
+    "neededType": 8
+  },
+ "Choice Scarf": {
+    "choice": true,
+    "onAttack": true,
+    "onSwitch": true,
+    "statMultiplier": 1.5,
+    "stat": 5
+  },
+ "Choice Specs": {
+    "choice": true,
+    "onAttack": true,
+    "onSwitch": true,
+    "statMultiplier": 1.5,
+    "stat": 3
+  },
+ "Expert Belt": {
+    "onSuperEffective": true,
+    "multiplier": 1.2
+  },
+ "Flyinium Z": {
+    "zStone": true,
+    "zType": 11
+  },
+ "Iapapa Berry": {
+    "onTakeDamage": true,
+    "healing": true,
+    "healingPercent": 0.5,
+    "berry": true,
+    "activeThreshold": 0.25
+  },
+ "Leftovers": {
+    "onTurnEnd": true,
+    "healing": true,
+    "healingPercent": 0.0625
+  },
+ "Medichamite": {
+    "megaStone": true,
+    "megaStats": [0, 100, 85, 80, 85, 100],
+    "megaAbility": "Pure Power"
+  }
+}
+
